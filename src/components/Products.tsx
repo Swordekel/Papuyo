@@ -18,7 +18,7 @@ export function Products() {
       id: 1,
       name: 'Papuyo Fresh',
       description: 'Buah pepaya segar pilihan yang dipotong sempurna, siap dinikmati',
-      price: 'Rp 25.000',
+      price: 'Rp 18.000',
       rating: 4.8,
       image: productFresh,
       badge: 'Best Seller'
@@ -27,7 +27,7 @@ export function Products() {
       id: 2,
       name: 'Papuyo Chocolate',
       description: 'Dessert cokelat premium dengan pepaya segar yang menyegarkan',
-      price: 'Rp 28.000',
+      price: 'Rp 15.000',
       rating: 4.9,
       image: productChocolate,
       badge: 'New'
@@ -36,7 +36,7 @@ export function Products() {
       id: 3,
       name: 'Papuyo Strawberry',
       description: 'Perpaduan manis strawberry dan pepaya yang menyehatkan',
-      price: 'Rp 27.000',
+      price: 'Rp 18.000',
       rating: 4.7,
       image: productStrawberry,
       badge: 'Popular'
